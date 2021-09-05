@@ -1,4 +1,4 @@
-# Xai_contrastive_feature_visualization(Explainable AI Assignment 2 - Model Explanations)
+# Xai_contrastive_feature_visualization(Explainable AI Assignment - Model Explanations)
 A visualization approach to explain how a deep learning model classify the hand-written digits.
 
 ### Model & Data
